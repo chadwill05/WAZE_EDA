@@ -1,5 +1,7 @@
 **Part of the Google Advanced Data Analalytics Course**
 
+This project has multiple parts. I will continue to add as I go along this course.
+
 Waze
 ￼
 Project goal:  
